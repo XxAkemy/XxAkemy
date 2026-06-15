@@ -6,4 +6,5 @@
 - gosto de jogos🎮​
 - tenho interesse em tecnologia
 
-  ![](https://tenor.com/pt-BR/view/choso-choso-jjk-jujutsu-kaisen-jjk-anime-gif-10150288324189740054)
+  ![](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/aac2ae7c-c471-41e2-a2b5-aa603a3dab98" />
+)
